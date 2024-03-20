@@ -1,6 +1,6 @@
-# # Local Payor Classification Uploader
+# Local Payor Classification Uploader
 
-This script is used to upload local payor classifications to the CaptureRx platform via API. It takes a list of payor classifications as input and sends requests to the designated API endpoint.
+This script is designed to upload local payor classifications to an external platform via API. It takes a list of payor classifications as input and sends requests to the designated API endpoint.
 
 ## Prerequisites
 
